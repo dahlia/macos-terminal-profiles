@@ -1,16 +1,24 @@
-Hong Minhee's Mac Terminal Profiles
-===================================
+Hong Minhee's Profiles for macOS Terminal.app
+=============================================
 
-https://github.com/dahlia/mac-terminal-profiles
+<https://github.com/dahlia/macos-terminal-profiles>
 
 This contains 4 profiles for Mac Terminal app.  It uses:
 
-- Ethan Schoonover's [Solarized][1] for colorscheme (dark and light)
-- John-Paul Bader's [SMYCK][2] colorscheme
-- [Tango][3] color palatte
-- [Source Code Pro][4] by Adobe (you have to install the font on your system)
+- [One Dark] colorscheme
+- Ethan Schoonover's [Solarized] for colorscheme (dark and light)
+- John-Paul Bader's [SMYCK] colorscheme
+- [Tango] color palatte
 
-[1]: http://ethanschoonover.com/solarized
-[2]: http://color.smyck.org/
-[3]: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines#Color_Palette
-[4]: http://adobe-fonts.github.io/source-code-pro/
+The below profiles depend on the following fonts, which have to be installed
+ahead of time:
+
+- [Fira Code] by Nikita Prokopov
+- [Source Code Pro] by Adobe
+
+[One Dark]: https://atom.io/themes/one-dark-syntax
+[Solarized]: http://ethanschoonover.com/solarized
+[SMYCK]: http://color.smyck.org/
+[Tango]: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines#Color_Palette
+[Fira Code]: https://github.com/tonsky/FiraCode
+[Source Code Pro]: http://adobe-fonts.github.io/source-code-pro/
